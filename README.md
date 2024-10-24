@@ -87,7 +87,7 @@ Este es un juego de Tetris simple desarrollado en Python utilizando la bibliotec
 
 ## Música
 
-El juego incluye música de fondo, la cual puedes modificar cambiando el archivo `tetris_music.mp3` por cualquier otro archivo MP3.
+El juego incluye música de fondo, la cual puedes modificar cambiando el archivo `tetris_music.mp3.mp3` por cualquier otro archivo MP3.
 
 ## Contribuciones
 
