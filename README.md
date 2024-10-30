@@ -21,7 +21,7 @@ Este es un juego de Tetris simple desarrollado en Python utilizando la bibliotec
 
 - **Pantalla de "Game Over"**:
   - Cuando pierdes, aparece una pantalla de "Game Over". 
-  - Puedes presionar `R` para reiniciar el juego o presionar `Esc` para salir.
+  - Puedes presionar `Enter` para reiniciar el juego o presionar `Esc` para salir.
 
 ## Requisitos
 
