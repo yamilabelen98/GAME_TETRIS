@@ -33,7 +33,7 @@ Este es un juego de Tetris simple desarrollado en Python utilizando la bibliotec
 1. Clona este repositorio en tu máquina local:
 
     ```bash
-    git clone https://github.com/tu-usuario/tetris-pygame.git
+    git clone https://github.com/yamilabelen98/GAME_TETRIS.git
     ```
 
 2. Navega al directorio del proyecto:
