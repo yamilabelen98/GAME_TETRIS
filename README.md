@@ -39,7 +39,7 @@ Este es un juego de Tetris simple desarrollado en Python utilizando la bibliotec
 2. Navega al directorio del proyecto:
 
     ```bash
-    cd tetris-pygame
+    cd GAME_TETRIS
     ```
 
 3. Crea un entorno virtual (opcional pero recomendado):
